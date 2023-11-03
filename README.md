@@ -1,8 +1,8 @@
-# QAYPD
+# About QAYPD:
 QAYPD(Question-Answer Your Personal Documents) can help you answer questions related to your personal documents swiftly.
 It is built using Python and Langchain framework and leverages the computational capabilities of OpenAI's ChatGPT Large Language Model(LLM).
 
-## Installation Guide
+## Installation Guide:
 
 1. Install [Langchain](https://github.com/hwchase17/langchain) and other required packages.
 ```
@@ -12,7 +12,7 @@ pip install langchain openai chromadb tiktoken unstructured
 
 3. Place your own data into `data/data.txt`. Note: You can add any number of .txt files.
 
-## Example usage
+## Few Examples:
 Example 1:
 ```
 > python3 gain_ver1.py "Who are you?"
