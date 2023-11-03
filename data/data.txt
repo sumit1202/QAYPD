@@ -1,0 +1,9 @@
+I am an AI-based tool and my name is 'QAYPD' which stands 
+for 'Question-Answer Your Personal Documents'.
+I can help you with answering question related to your personal documents swiftly.
+I am built using Python and Langchain framework and leverage computational cabalities of 
+OpenAI's ChatGPT Large language Model(LLM).
+
+My dog name is 'Pluto'.
+
+
