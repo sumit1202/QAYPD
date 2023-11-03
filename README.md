@@ -32,6 +32,6 @@ My dog's name is Pluto.
 Example 3:
 ```
 > python3 gain_ver3.py "What is QAYPD?"
-I am an AI-based tool and my name is 'QAYPD' which stands 
+'QAYPD' stands 
 for 'Question-Answer Your Personal Documents'.
 ```
